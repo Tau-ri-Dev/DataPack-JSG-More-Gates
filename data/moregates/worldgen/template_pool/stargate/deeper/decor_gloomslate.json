@@ -1,0 +1,129 @@
+{
+  "name": "moregates:stargate/deeper/decor_gloomslate",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_1",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_2",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_3",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_4",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_5",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_6",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_7",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_8",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_9",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_10",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_11",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_12",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/decor_13",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    }
+  ]
+}

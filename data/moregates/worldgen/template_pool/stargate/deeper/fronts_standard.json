@@ -1,0 +1,33 @@
+{
+  "name": "moregates:stargate/deeper/fronts_standard",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/front_3",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/front_4",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/deeper/front_5",
+        "processors": "moregates:stargate_outpost/deeper_darker"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "moregates:stargate/afterdark/bases_deep",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/afterdark/base_1",
+        "processors": "moregates:stargate_outpost/afterdark"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/afterdark/base_2",
+        "processors": "moregates:stargate_outpost/afterdark"
+      }
+    }
+  ]
+}

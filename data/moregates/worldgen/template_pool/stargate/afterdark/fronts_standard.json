@@ -1,0 +1,24 @@
+{
+  "name": "moregates:stargate/afterdark/fronts_standard",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/afterdark/front_3",
+        "processors": "moregates:stargate_outpost/afterdark"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "moregates:stargate/afterdark/front_4",
+        "processors": "moregates:stargate_outpost/afterdark"
+      }
+    }
+  ]
+}
