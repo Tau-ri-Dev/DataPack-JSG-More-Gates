@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "id": "the_afterdark:calcite_fields",
+      "required": false
+    },
+    {
+      "id": "the_afterdark:creepy_snowfields",
+      "required": false
+    },
+    {
+      "id": "the_afterdark:dripstone_deltas",
+      "required": false
+    },
+    {
+      "id": "the_afterdark:dying_drylands",
+      "required": false
+    },
+    {
+      "id": "the_afterdark:lush_gardens",
+      "required": false
+    },
+    {
+      "id": "the_afterdark:prismarine_peaks",
+      "required": false
+    },
+    {
+      "id": "the_afterdark:prismarine_ponds",
+      "required": false
+    }
+  ]
+}

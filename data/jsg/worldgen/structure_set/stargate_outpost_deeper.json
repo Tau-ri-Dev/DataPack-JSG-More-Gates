@@ -1,0 +1,23 @@
+{
+  "structures": [
+    {
+      "structure": "jsg:stargate_outpost_deeper_standard",
+      "weight": 1
+    },
+    {
+      "structure": "jsg:stargate_outpost_deeper_gloomslate",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1779555984,
+    "spacing": 40,
+    "separation": 30,
+    "locate_offset": [
+      0,
+      2,
+      0
+    ],
+    "type": "minecraft:random_spread"
+  }
+}

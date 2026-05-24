@@ -1,0 +1,46 @@
+{
+  "allowedBiomes": [
+    "#jsg:is_deeper_gloomslate",
+    "#jsg:is_deeper_standard"
+  ],
+  "allowedForDifficulties": [
+    "HARD",
+    "NORMAL",
+    "EASY"
+  ],
+  "allowedOnGates": [
+    "jsg:milkyway",
+    "jsg:pegasus",
+    "jsg:universe",
+    "jsg:movie",
+    "jsg:tollan"
+  ],
+  "chevronsToDial": 7,
+  "entities": [
+    {
+      "name":"deeperdarker:sculk_centipede",
+      "nbt":{},
+      "weight": 10
+    },
+    {
+      "name":"deeperdarker:sculk_snapper",
+      "nbt":{},
+      "weight": 25
+    },
+    {
+      "name":"deeperdarker:shattered",
+      "nbt":{},
+      "weight": 40
+    }
+  ],
+  "randomMobsCount": {
+    "type": "minecraft:uniform",
+    "value": {
+      "max_inclusive": 20,
+      "min_inclusive": 5
+    }
+  },
+  "selectRandomMobs": true,
+  "shouldOpenIrisChance": 0.0,
+  "weight": 40
+}

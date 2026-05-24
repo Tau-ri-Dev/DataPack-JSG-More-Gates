@@ -1,0 +1,24 @@
+{
+  "name": "jsg:stargate/deeper/bases_gloomslate",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "jsg:stargate/deeper/base_1",
+        "processors": "jsg:stargate_outpost/deeper_darker"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "jsg:stargate/deeper/base_2",
+        "processors": "jsg:stargate_outpost/deeper_darker"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "deeperdarker:blooming_caverns",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:deeplands",
+      "required": false
+    },
+    {
+      "id": "deeperdarker:echoing_forest",
+      "required": false
+    }
+  ]
+}
